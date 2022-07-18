@@ -1,5 +1,5 @@
 # m1-setup
-Here are some of the fixes that helped in install popular ML/RL libraries on apple silicon.
+Here are some of the fixes that helped me install popular ML/RL libraries on apple silicon. I'm sharing it here in hopes that it's useful for others as well.
 
 
 ## tensorflow:
